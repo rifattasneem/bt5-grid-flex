@@ -1,0 +1,32 @@
+
+.box{
+	margin-bottom: 20px;
+	min-height: 80px;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	background-color: teal;
+}
+.box1{
+	margin-bottom: 20px;
+	min-height: 80px;
+    font-size: 30px;
+	color: white;
+	text-align: center;
+	background-color: grey;
+}
+.box2{
+	margin-bottom: 20px;
+	min-height: 80px;
+    font-size: 30px;
+	color: white;
+	text-align: center;
+	background-color: black;
+}
+form{
+	padding: 20px 0;
+	background-color: #53c6b9;
+}
+.in-group{
+	margin-bottom: 20px;
+}
